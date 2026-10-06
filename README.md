@@ -26,3 +26,7 @@ Aísla dos partes del circuito para evitar que un voltaje mayor queme la parte d
 ### Transistor:
 El Relé sólo recibirá corriente cuando el Transistor permite el paso(Como medida preventiva para asegurar el curso correcto de la corriente).
 
+# Analisis Economico
+# Materiales
+
+
