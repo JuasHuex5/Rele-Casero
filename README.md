@@ -29,4 +29,5 @@ El Relé sólo recibirá corriente cuando el Transistor permite el paso(Como med
 # Analisis Economico
 ### Materiales
 
-
+------------
+|jdjjfjf|
