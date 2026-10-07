@@ -29,5 +29,8 @@ El Relé sólo recibirá corriente cuando el Transistor permite el paso(Como med
 # Analisis Economico
 ### Materiales
 
-------------
-|jdjjfjf|
+| Componente | Precio |
+| ------------- | ------------- |
+| ESP32 C3 super mini | 6499 - 8301 |
+| Relé | 1800  |
+
