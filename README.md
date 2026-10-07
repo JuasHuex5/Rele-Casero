@@ -33,4 +33,5 @@ El Relé sólo recibirá corriente cuando el Transistor permite el paso(Como med
 | ------------- | ------------- |
 | ESP32 C3 super mini | 6499 - 8301 |
 | Relé | 1800  |
+| 4n25(Optoacoplador) | 2n2222(Transistor) |
 
