@@ -40,5 +40,6 @@ El Relé sólo recibirá corriente cuando el Transistor permite el paso(Como med
 
 Precio Final:18214
 
-#ESQUEMATICO
+# ESQUEMATICO
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
