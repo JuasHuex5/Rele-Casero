@@ -31,8 +31,14 @@ El Relé sólo recibirá corriente cuando el Transistor permite el paso(Como med
 
 | Componente | Precio |
 | ------------- | ------------- |
-| ESP32 C3 super mini | 6499 - 8301 |
+| ESP32 C3 super mini | 8500 |
 | Relé | 1800  |
-| 4n25(Optoacoplador) | 2n2222(Transistor) |
+| 4n25(Optoacoplador) | 3844 |
+|2n2222(Transistor) | 200 |
 | XL6009 | 3608 - 2990 |
+|Placa de cobre|880|
+
+Precio Final:18214
+
+#ESQUEMATICO
 
