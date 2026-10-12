@@ -46,3 +46,6 @@ Precio Final:18214
 # PCB
 ![alt text](https://github.com/JuasHuex5/Rele-Casero/blob/main/Hardware/PCBpro.png "PCBxd")
 
+# Objetivo
+Se realiza este proyecto con la finalidad de poder armar un modulo Relay desde casa, ya que los que se encuentran en el mercado son mucho mas costosos que montandolo de manera casera.
+
