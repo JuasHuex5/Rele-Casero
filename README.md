@@ -43,3 +43,6 @@ Precio Final:18214
 # ESQUEMATICO
 ![alt text](https://github.com/JuasHuex5/Rele-Casero/blob/main/Hardware/ESQUEMATICOrepro.png "Esquematico")
 
+# PCB
+![alt text](https://github.com/JuasHuex5/Rele-Casero/blob/main/Hardware/PCBpro.png "PCBxd")
+
