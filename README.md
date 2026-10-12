@@ -41,5 +41,5 @@ El Relé sólo recibirá corriente cuando el Transistor permite el paso(Como med
 Precio Final:18214
 
 # ESQUEMATICO
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/JuasHuex5/Rele-Casero/blob/main/Hardware/ESQUEMATICOrepro.png "Esquematico")
 
