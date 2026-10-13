@@ -146,7 +146,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.7,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
@@ -676,7 +676,7 @@
         "uuid": "8305305e-53fe-4d38-bd63-ab89cfd3bc4b"
       }
     ],
-    "used_designators": "U3-4,K1-2,LED1,#PWR12,#PWR14-18,J3-4,R1-2,SW1,I2C_OLED1,Sensor_de_Distancia1",
+    "used_designators": "U3-4,K1-2,LED1,#PWR3,#PWR6-8,#PWR12,#PWR14-21,J3-4,R1-2,SW1,I2C_OLED1,Sensor_de_Distancia1",
     "variants": []
   },
   "sheets": [
